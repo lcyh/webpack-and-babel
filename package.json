@@ -1,0 +1,28 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js",
+    "postbuild": "mv dist build",
+    "lib": "node ./lib/webpack.js",
+    "transform": "node ./lib/transform.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/parser": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/traverse": "^7.10.5",
+    "babel-types": "^6.26.0",
+    "cheerio": "^1.0.0-rc.3",
+    "loader-utils": "^2.0.0",
+    "react": "^16.13.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}

@@ -3285,6 +3285,13 @@ regjsparser@^0.6.4:
   dependencies:
     jsesc "~0.5.0"
 
+remove-comment-plugin-loader@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/remove-comment-plugin-loader/-/remove-comment-plugin-loader-1.0.0.tgz#84e209dca3641813f4f0be08dfca4281626f7941"
+  integrity sha512-1OWrGkb0d1PKTlH+QlrzKvCgAMKfRIfl3tKCFjNpVJkHUnrh/BYv15dlh06P3WAyUBsJxyP4RIoOFbAzenQEhQ==
+  dependencies:
+    loader-utils "^2.0.0"
+
 remove-trailing-separator@^1.0.1:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/remove-trailing-separator/-/remove-trailing-separator-1.1.0.tgz#c24bce2a283adad5bc3f58e0d48249b92379d8ef"

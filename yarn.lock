@@ -2361,9 +2361,9 @@ inherits@2.0.3:
   integrity sha1-Yzwsg+PaQqUC9SRmAiSA9CCCYd4=
 
 ini@^1.3.4, ini@^1.3.5:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
-  integrity sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.8.tgz#a29da425b48806f34767a4efce397269af28432c"
+  integrity sha512-JV/yugV2uzW5iMRSiZAyDtQd+nxtUnjeLt0acNdw98kKLrvuRVyB80tsREOE7yvGVgalhZ6RNXCmEHkUKBKxew==
 
 interpret@^1.4.0:
   version "1.4.0"
@@ -3284,13 +3284,6 @@ regjsparser@^0.6.4:
   integrity sha512-64O87/dPDgfk8/RQqC4gkZoGyyWFIEUTTh80CU6CWuK5vkCGyekIx+oKcEIYtP/RAxSQltCZHCNu/mdd7fqlJw==
   dependencies:
     jsesc "~0.5.0"
-
-remove-comment-plugin-loader@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/remove-comment-plugin-loader/-/remove-comment-plugin-loader-1.0.0.tgz#84e209dca3641813f4f0be08dfca4281626f7941"
-  integrity sha512-1OWrGkb0d1PKTlH+QlrzKvCgAMKfRIfl3tKCFjNpVJkHUnrh/BYv15dlh06P3WAyUBsJxyP4RIoOFbAzenQEhQ==
-  dependencies:
-    loader-utils "^2.0.0"
 
 remove-trailing-separator@^1.0.1:
   version "1.1.0"

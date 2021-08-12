@@ -3029,9 +3029,9 @@ path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 pbkdf2@^3.0.3:
   version "3.1.1"
@@ -3284,13 +3284,6 @@ regjsparser@^0.6.4:
   integrity sha512-64O87/dPDgfk8/RQqC4gkZoGyyWFIEUTTh80CU6CWuK5vkCGyekIx+oKcEIYtP/RAxSQltCZHCNu/mdd7fqlJw==
   dependencies:
     jsesc "~0.5.0"
-
-remove-comment-plugin-loader@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/remove-comment-plugin-loader/-/remove-comment-plugin-loader-1.0.0.tgz#84e209dca3641813f4f0be08dfca4281626f7941"
-  integrity sha512-1OWrGkb0d1PKTlH+QlrzKvCgAMKfRIfl3tKCFjNpVJkHUnrh/BYv15dlh06P3WAyUBsJxyP4RIoOFbAzenQEhQ==
-  dependencies:
-    loader-utils "^2.0.0"
 
 remove-trailing-separator@^1.0.1:
   version "1.1.0"

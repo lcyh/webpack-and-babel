@@ -2619,9 +2619,9 @@ loader-utils@^1.2.3, loader-utils@^1.4.0:
     json5 "^1.0.1"
 
 loader-utils@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/loader-utils/-/loader-utils-2.0.0.tgz#e4cace5b816d425a166b5f097e10cd12b36064b0"
-  integrity sha512-rP4F0h2RaWSvPEkD7BLDFQnvSf+nK+wr3ESUjNTyAGobqrijmW92zc+SO6d4p4B1wh7+B/Jg1mkQe5NYUEHtHQ==
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/loader-utils/-/loader-utils-2.0.4.tgz#8b5cb38b5c34a9a018ee1fc0e6a066d1dfcc528c"
+  integrity sha512-xXqpXoINfFhgua9xiqD8fPFHgkoq1mmmpE92WlDbm9rNRd/EbRb+Gqf908T2DMfuHjjJlksiK2RbHVOdD/MqSw==
   dependencies:
     big.js "^5.2.2"
     emojis-list "^3.0.0"
@@ -3284,13 +3284,6 @@ regjsparser@^0.6.4:
   integrity sha512-64O87/dPDgfk8/RQqC4gkZoGyyWFIEUTTh80CU6CWuK5vkCGyekIx+oKcEIYtP/RAxSQltCZHCNu/mdd7fqlJw==
   dependencies:
     jsesc "~0.5.0"
-
-remove-comment-plugin-loader@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/remove-comment-plugin-loader/-/remove-comment-plugin-loader-1.0.0.tgz#84e209dca3641813f4f0be08dfca4281626f7941"
-  integrity sha512-1OWrGkb0d1PKTlH+QlrzKvCgAMKfRIfl3tKCFjNpVJkHUnrh/BYv15dlh06P3WAyUBsJxyP4RIoOFbAzenQEhQ==
-  dependencies:
-    loader-utils "^2.0.0"
 
 remove-trailing-separator@^1.0.1:
   version "1.1.0"
